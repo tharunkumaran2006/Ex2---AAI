@@ -1,8 +1,8 @@
 <H3>Name : THARUN V K</H3>
 <H3>Register Number : 212223230231</H3>
-<H3>Experiment 2</H3>
-<H3>Date : 24/09/2025</H3>
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
+<H3>EXPERIMENT 2</H3>
+<H3>DATE : 24/09/2025</H3>
+<h1 align =center>IMPLEMENTATION OF EXTRACT INFERENCE METHOD OF BAYESIAN NETWORK</h1>
 <br>
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
