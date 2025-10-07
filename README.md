@@ -4,6 +4,7 @@
 <H3>DATE : 24/09/2025</H3>
 <h1 align =center>IMPLEMENTATION OF EXTRACT INFERENCE METHOD OF BAYESIAN NETWORK</h1>
 <br>
+
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
